@@ -1,11 +1,13 @@
 about:
-  description: AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
+  description:
+  |
+    AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
   license: MIT
   homepage: https://holyclaude.coderluii.dev
   head: fafac07
   archived: false
   latestVersion: v1.5.9
-  collectedAt: 2026-09-03T05:12:48Z
+  collectedAt: 2026-09-03T22:36:55Z
 timeline:
   created: 2026-03-22
   lastCommit: 2026-09-02
@@ -23,7 +25,7 @@ language:
   Shell: 140577
   Dockerfile: 54576
   Python: 19693
-totalLine: 665176
+totalBytes: 665176
 recent:
   last30d:
     since: 2026-08-04
