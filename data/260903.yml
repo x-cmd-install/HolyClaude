@@ -1,0 +1,59 @@
+about:
+  description: AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+ tools
+  license: MIT
+  homepage: https://holyclaude.coderluii.dev
+  head: fafac07
+  archived: false
+  latestVersion: v1.5.9
+  collectedAt: 2026-09-03T05:12:48Z
+timeline:
+  created: 2026-03-22
+  lastCommit: 2026-09-02
+  lastRelease: 2026-09-02
+popularity:
+  star: 2548
+  watcher: 15
+  fork: 268
+  release: 49
+  contributor: 2
+  pullRequest: 29
+  issue: 49
+language:
+  JavaScript: 450330
+  Shell: 140577
+  Dockerfile: 54576
+  Python: 19693
+totalLine: 665176
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 3
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 3
+  last90d:
+    since: 2026-06-05
+    release: 31
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 12
+    openIssue: 0
+    commit: 33
+  last180d:
+    since: 2026-03-07
+    release: 49
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 49
+    openIssue: 0
+    commit: 52
+  last360d:
+    since: 2025-09-08
+    release: 49
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 49
+    openIssue: 0
+    commit: 52
