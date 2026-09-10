@@ -131,4 +131,3 @@ total:
 ---
 
 ---
-{"id":381498274,"author":{"login":"CoderLuii","id":203967356,"node_id":"U_kgDODChLfA","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDORtT6M84WvTOi","tag_name":"v1.5.9","target_commitish":"master","name":"v1.5.9","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-02T17:28:55Z","updated_at":"2026-09-02T18:51:28Z","published_at":"2026-09-02T18:51:28Z","assets":[],"body":"## 09/02/2026\n\n### Fixed\n\n- Normalized tracked Markdown files to LF line endings and added a repository rule to keep them consistent.\n- Updated new and persisted Codex configurations to use the current `hooks` feature flag without overwriting an existing setting."}
