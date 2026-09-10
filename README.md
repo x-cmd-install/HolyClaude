@@ -22,11 +22,10 @@ x install HolyClaude
 
 - **Latest**: `v1.5.9` (2026-09-02)
 - **Last commit**: 2026-09-02
-- **Published**: 2026-09-02T18:51:28Z
 
 ## Popularity
 
-- **Stars**: 2,561 · **Forks**: 270 · **Open issues**: 51 · **Contributors**: 2
+- **Stars**: 2,560 · **Forks**: 270 · **Open issues**: 51 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -57,8 +56,8 @@ Total: **52,254** lines of code across **81** files in the top 5 languages.
 Install metadata for HolyClaude lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `HolyClaude` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/HolyClaude.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/HolyClaude.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:36:38Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:24:09Z._
