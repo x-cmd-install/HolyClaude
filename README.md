@@ -12,6 +12,18 @@ AI coding workstation: Claude Code + web UI + 8 AI CLIs + headless browser + 50+
 x install HolyClaude
 ```
 
+## Code insight
+
+Total: **52,254** lines of code across **81** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 37,154 | 0 | 0 | 12 |
+| JavaScript | 10,062 | 0 | 873 | 48 |
+| Sh | 3,411 | 82 | 392 | 17 |
+| Dockerfile | 693 | 69 | 59 | 1 |
+| Python | 514 | 6 | 92 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/CoderLuii/HolyClaude>
@@ -35,21 +47,12 @@ x install HolyClaude
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 0 | 0 | 0 | 3 | 2 |
-| 90d | 2026-06-12 | 31 | 2 | 0 | 10 | 3 | 29 |
-| 360d | 2025-09-15 | 49 | 3 | 0 | 48 | 3 | 52 |
-
-## Code size
-
-Total: **52,254** lines of code across **81** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 37,154 | 0 | 0 | 12 |
-| JavaScript | 10,062 | 0 | 873 | 48 |
-| Sh | 3,411 | 82 | 392 | 17 |
-| Dockerfile | 693 | 69 | 59 | 1 |
-| Python | 514 | 6 | 92 | 3 |
+| 30d | 2026-08-12 | 3 | 0 | 0 | 0 | 3 | 2 |
+| last60d | 2026-07-13 | 11 | 0 | 0 | 2 | 3 | 10 |
+| 90d | 2026-06-13 | 31 | 2 | 0 | 10 | 3 | 29 |
+| last180d | 2026-03-15 | 49 | 3 | 0 | 48 | 3 | 52 |
+| 360d | 2025-09-16 | 49 | 3 | 0 | 48 | 3 | 52 |
+| last720d | 2024-09-21 | 49 | 3 | 0 | 48 | 3 | 53 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for HolyClaude lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:24:09Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:13:23Z._
