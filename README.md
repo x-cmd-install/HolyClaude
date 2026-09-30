@@ -37,7 +37,7 @@ Total: **83,662** lines of code across **139** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,576 · **Forks**: 271 · **Open issues**: 51 · **Contributors**: 2
+- **Stars**: 2,575 · **Forks**: 271 · **Open issues**: 51 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **83,662** lines of code across **139** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 6 | 0 | 0 | 1 | 1 | 4 |
-| last60d | 2026-07-31 | 9 | 0 | 0 | 2 | 1 | 7 |
-| 90d | 2026-07-01 | 24 | 0 | 0 | 10 | 1 | 20 |
-| last180d | 2026-04-02 | 44 | 2 | 0 | 26 | 1 | 44 |
-| 360d | 2025-10-04 | 53 | 3 | 0 | 50 | 1 | 56 |
-| last720d | 2024-10-09 | 53 | 3 | 0 | 50 | 1 | 57 |
+| 30d | 2026-08-31 | 6 | 0 | 0 | 1 | 1 | 4 |
+| last60d | 2026-08-01 | 9 | 0 | 0 | 2 | 1 | 7 |
+| 90d | 2026-07-02 | 24 | 0 | 0 | 9 | 1 | 20 |
+| last180d | 2026-04-03 | 44 | 2 | 0 | 25 | 1 | 44 |
+| 360d | 2025-10-05 | 53 | 3 | 0 | 50 | 1 | 56 |
+| last720d | 2024-10-10 | 53 | 3 | 0 | 50 | 1 | 57 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for HolyClaude lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:42:59Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:27:06Z._
