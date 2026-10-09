@@ -47,12 +47,12 @@ Total: **101,191** lines of code across **152** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 6 | 0 | 1 | 0 | 1 | 5 |
-| last60d | 2026-08-09 | 9 | 0 | 1 | 2 | 1 | 8 |
-| 90d | 2026-07-10 | 18 | 0 | 1 | 6 | 1 | 17 |
-| last180d | 2026-04-11 | 41 | 2 | 1 | 21 | 1 | 43 |
-| 360d | 2025-10-13 | 55 | 3 | 1 | 50 | 1 | 58 |
-| last720d | 2024-10-18 | 55 | 3 | 1 | 50 | 1 | 59 |
+| 30d | 2026-09-09 | 6 | 0 | 1 | 0 | 0 | 5 |
+| last60d | 2026-08-10 | 9 | 0 | 1 | 2 | 1 | 8 |
+| 90d | 2026-07-11 | 18 | 0 | 1 | 5 | 1 | 17 |
+| last180d | 2026-04-12 | 41 | 2 | 1 | 20 | 1 | 43 |
+| 360d | 2025-10-14 | 55 | 3 | 1 | 50 | 1 | 58 |
+| last720d | 2024-10-19 | 55 | 3 | 1 | 50 | 1 | 59 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for HolyClaude lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T05:54:02Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:01:27Z._
