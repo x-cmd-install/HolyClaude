@@ -14,15 +14,15 @@ x install HolyClaude
 
 ## Code insight
 
-Total: **101,191** lines of code across **152** files in the top 5 languages.
+Total: **101,090** lines of code across **152** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 73,186 | 0 | 0 | 18 |
-| JavaScript | 19,410 | 1 | 1,466 | 94 |
-| Sh | 5,477 | 110 | 566 | 31 |
+| Json | 73,177 | 0 | 0 | 18 |
+| JavaScript | 19,335 | 1 | 1,469 | 94 |
+| Sh | 5,520 | 110 | 567 | 31 |
 | Python | 1,558 | 8 | 239 | 7 |
-| Dockerfile | 916 | 70 | 62 | 2 |
+| Dockerfile | 841 | 67 | 60 | 2 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **101,191** lines of code across **152** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.6.5` (2026-10-06)
-- **Last commit**: 2026-10-06
+- **Latest**: `v1.6.6` (2026-10-10)
+- **Last commit**: 2026-10-10
 
 ## Popularity
 
-- **Stars**: 2,579 · **Forks**: 271 · **Open issues**: 51 · **Contributors**: 2
+- **Stars**: 2,578 · **Forks**: 271 · **Open issues**: 51 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 3 · **Open PRs**: 1 · **Closed issues**: 50 · **Open issues**: 1 · **Commits**: 59
+- **Releases**: 56 · **Merged PRs**: 3 · **Open PRs**: 0 · **Closed issues**: 50 · **Open issues**: 1 · **Commits**: 60
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 6 | 0 | 1 | 0 | 0 | 5 |
-| last60d | 2026-08-11 | 9 | 0 | 1 | 2 | 1 | 8 |
-| 90d | 2026-07-12 | 17 | 0 | 1 | 4 | 1 | 17 |
-| last180d | 2026-04-13 | 41 | 2 | 1 | 20 | 1 | 43 |
-| 360d | 2025-10-15 | 55 | 3 | 1 | 50 | 1 | 58 |
-| last720d | 2024-10-20 | 55 | 3 | 1 | 50 | 1 | 59 |
+| 30d | 2026-09-11 | 7 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-12 | 10 | 0 | 0 | 2 | 1 | 9 |
+| 90d | 2026-07-13 | 18 | 0 | 0 | 4 | 1 | 16 |
+| last180d | 2026-04-14 | 42 | 2 | 0 | 20 | 1 | 44 |
+| 360d | 2025-10-16 | 56 | 3 | 0 | 50 | 1 | 59 |
+| last720d | 2024-10-21 | 56 | 3 | 0 | 50 | 1 | 60 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for HolyClaude lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:44:22Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:39:27Z._
