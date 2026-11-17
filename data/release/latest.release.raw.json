@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/CoderLuii/HolyClaude/releases/436277315",
-  "assets_url": "https://api.github.com/repos/CoderLuii/HolyClaude/releases/436277315/assets",
-  "upload_url": "https://uploads.github.com/repos/CoderLuii/HolyClaude/releases/436277315/assets{?name,label}",
-  "html_url": "https://github.com/CoderLuii/HolyClaude/releases/tag/v1.6.9",
-  "id": 436277315,
+  "url": "https://api.github.com/repos/CoderLuii/HolyClaude/releases/447396976",
+  "assets_url": "https://api.github.com/repos/CoderLuii/HolyClaude/releases/447396976/assets",
+  "upload_url": "https://uploads.github.com/repos/CoderLuii/HolyClaude/releases/447396976/assets{?name,label}",
+  "html_url": "https://github.com/CoderLuii/HolyClaude/releases/tag/v1.7.0",
+  "id": 447396976,
   "author": {
     "login": "CoderLuii",
     "id": 203967356,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORtT6M84aARBD",
-  "tag_name": "v1.6.9",
+  "node_id": "RE_kwDORtT6M84aqrxw",
+  "tag_name": "v1.7.0",
   "target_commitish": "master",
-  "name": "v1.6.9",
+  "name": "v1.7.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-06T08:42:13Z",
-  "updated_at": "2026-11-06T08:49:40Z",
-  "published_at": "2026-11-06T08:49:40Z",
+  "created_at": "2026-11-16T17:12:29Z",
+  "updated_at": "2026-11-16T18:00:07Z",
+  "published_at": "2026-11-16T18:00:07Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/CoderLuii/HolyClaude/tarball/v1.6.9",
-  "zipball_url": "https://api.github.com/repos/CoderLuii/HolyClaude/zipball/v1.6.9",
-  "body": "## 11/06/2026\n\n### Changed\n\n- Updated Node to 26.13.0, Claude Code to 2.1.318, Gemini CLI to 0.67.0, Codex to 0.166.0, OpenCode to 1.19.5 and Junie to 4011.1 from official upstream releases.\n- Updated Python to 3.14.10 and Debian Chromium to 156.0.8078.79 on AMD64 and ARM64.\n- Aligned Node and Python Playwright at 1.64.1 and refreshed compatible developer, notification and document tools. Existing CloudCLI features and retained third-party patches remain unchanged.\n\n### Security\n\n- Added origin checks for the Node binary bundled in Python Playwright, binding its version, architecture, file hash and image layer to the reviewed official wheel.\n- Renewed immutable-input evidence and updated Syft to 1.56.0 and Grype to 0.121.1. Upstream vulnerability findings remain visible as accepted findings, not fixes.\n"
+  "tarball_url": "https://api.github.com/repos/CoderLuii/HolyClaude/tarball/v1.7.0",
+  "zipball_url": "https://api.github.com/repos/CoderLuii/HolyClaude/zipball/v1.7.0",
+  "body": "## 11/16/2026\n\n### Changed\n\n- Updated the Node runtime to 26.13.1, Claude Code to 2.1.325, Gemini CLI to 0.68.0 and Codex to 0.169.0 from verified official inputs.\n- Updated Apprise to 2.2.0 while preserving existing email PGP notification URLs and explicit `pgppub` values.\n- Updated Docker login to 4.8.0. Release qualifications reuse successful native builds by exact digest, and per-target registry caches preserve unchanged installation layers between releases.\n\n### Security\n\n- Refreshed immutable-input and upstream-advisory review. Corrected the recorded Uvicorn wheel/source and tree-sitter-language-pack source archive hashes against official artifacts without changing those package versions.\n- Kept retained CloudCLI features, custom builders and existing security overlays unchanged. Accepted upstream vulnerability findings remain visible and unresolved."
 }
